@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: groovy-all-2.4.6.jar junit.jar junit-4.12.jar
+Main-Class: SpaceGame.Game
+
